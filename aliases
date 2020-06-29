@@ -1,1 +1,31 @@
-!alias fb init cast "Fire Bolt"
+!alias sr g shortrest
+!alias lr g longrest
+!alias ss g ss
+!alias e echo
+
+!alias fight init begin
+!alias j init join
+!alias n init next
+!alias end init end
+!alias who init status
+!alias ? init status
+!alias now init list
+!alias ! init list
+
+!alias stones init cast "Magic Stone" -thumb https://media-waterdeep.cursecdn.com/attachments/2/722/transmutation.png
+!alias poison init cast "Poison Spray" -thumb https://media-waterdeep.cursecdn.com/attachments/2/708/conjuration.png
+!alias fb init cast "Fire Bolt" -thumb https://media-waterdeep.cursecdn.com/attachments/2/703/evocation.png
+!alias flame init cast "Produce Flame" -thumb https://media-waterdeep.cursecdn.com/attachments/2/708/conjuration.png
+!alias heal init cast "Healing Word" -thumb https://media-waterdeep.cursecdn.com/attachments/2/703/evocation.png
+!alias cure init cast "Cure Wounds" -thumb https://media-waterdeep.cursecdn.com/attachments/2/703/evocation.png
+
+!alias stone init attack stone
+!alias alb init attack Longbow
+!alias aqs init attack Quarterstaff
+!alias a2q init attack 2-Handed Quarterstaff
+
+!alias p check perception
+!alias arcana check arcana
+!alias athletics check athletics
+!alias - br
+
